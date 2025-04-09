@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60" height="60" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="footer-waves" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 0 15 Q 7.5 0, 15 15 T 30 15" fill="none" stroke="#0050A3" stroke-width="0.5" stroke-opacity="0.1"/>
+    </pattern>
+  </defs>
+  <rect width="60" height="60" fill="url(#footer-waves)" />
+</svg> 
