@@ -1,15 +1,36 @@
 # Lääkärikompassi Website
 
-Modern website for Lääkärikompassi built with Next.js, TypeScript, and Tailwind CSS.
+This is the official website for Lääkärikompassi, a service that connects pharmaceutical companies, recruiters, and medical professionals.
 
 ## Features
 
 - Modern, responsive design
-- Optimized for performance and SEO
-- Built with Next.js 14 and TypeScript
-- Styled with Tailwind CSS
-- Mobile-first approach
-- Multi-language support (FI/EN)
+- Optimized image loading
+- Target group selection
+- Service showcase
+- News and blog section
+
+## Development
+
+To run the development server:
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Deployment
+
+This site is automatically deployed to GitHub Pages when changes are pushed to the main branch.
+
+## Technologies Used
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Framer Motion
 
 ## Getting Started
 
@@ -25,16 +46,6 @@ Modern website for Lääkärikompassi built with Next.js, TypeScript, and Tailwi
    ```bash
    npm install
    ```
-
-### Development
-
-Run the development server:
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ### Building for Production
 
